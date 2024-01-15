@@ -27,7 +27,7 @@ In the following table we compare BIT-SIRST with other datasets.
 
 The full BIT-SIRST download website:
 
-（1）[Google driver](https://drive.google.com/file/d/1h2yWmiyeNyJbuDO25nKhAexK3JBXLIz/view?usp=sharing)
+（1）[Google driver](https://drive.google.com/file/d/1h2yWmiyeNNyJbuDO25nKhAexK3JBXLIz/view?usp=drive_link)
 
 （2）[Baidu Cloud](https://pan.baidu.com/s/1tU9EpkTZ_npQe248BqJsSA?pwd=seia) [Extraction Code: **seia**]
 
