@@ -1,7 +1,7 @@
 BIT-SIRST
 ==============
 
-A dataset proposed in "Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection" <https://arxiv.org/submit/5347482/view>.
+A dataset proposed in "Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection" <http://arxiv.org/abs/2311.08747>.
 
 At present, our paper is still under review, and the paper code will be released when it is finished.
 
